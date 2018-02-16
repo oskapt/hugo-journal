@@ -57,6 +57,7 @@
   color: #cc99cc;
 }
 
+.language-text,
 .hljs {
   display: block;
   overflow-x: auto;
